@@ -36,9 +36,9 @@ For a detailed explanation of the application:
 
 ## Deployment Documentation
 
-### AWS RDS + S3
+For a detailed explanation of the deployment:
 
-AWS deployment documentation will be added as part of the deployment phase.
+[Deployment Documentation](docs/deployment/DEPLOYMENT.md)
 
 ### Docker
 
